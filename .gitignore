@@ -1,0 +1,5 @@
+build
+.vscode
+*.jpg
+*.raw
+*.png
